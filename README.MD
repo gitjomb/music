@@ -7,3 +7,5 @@ Gitjomb audio player music yang dibuat tujuannya untuk komunitas, audio dapat di
 
 fitur tambah album untuk semua user. semua orang bisa menambahkan albumnya didalam file `albumbank.js`. 
 
+#tanya_achmad
+
